@@ -6,7 +6,7 @@
  * Copyright © 2020. Hangzhou FanLi Technology Co., Ltd All rights reserved.
  */
 
-namespace an\filesystem\fdfs;
+namespace an\fdfs;
 
 use FastDFS as fdfs;
 
