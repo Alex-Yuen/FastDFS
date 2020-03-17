@@ -1,0 +1,22 @@
+{
+  "name": "anqin/fastdfs",
+  "description": "FastDFS 文件系统类库",
+  "license": "Apache-2.0",
+  "keywords": [
+    "fastdfs class"
+  ],
+  "authors": [
+    {
+      "name": "AnQin",
+      "email": "an-qin@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "an\\fdfs": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
